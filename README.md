@@ -1,4 +1,4 @@
-# ChronoSync – Automated Event & Calendar Scheduler with Conflict Detection
+#  Automated Event & Calendar Scheduler with Conflict Detection
 
 Data Structures & OOP course project (PBL). C++17 backend engine.
 
